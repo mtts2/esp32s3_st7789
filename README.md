@@ -1,4 +1,4 @@
-# ESP32-S3 + ST7789 4Dテッセラクトデモ
+# ESP32-S3 + ST7789 4Dtesseract DEMO
 
 ESP32-S3マイコンボードとST7789 TFTディスプレイを使用した、Amiga/Demosceneスタイルの4次元テッセラクト（超立方体）デモプログラムです。
 
