@@ -1,0 +1,11 @@
+# Build artifacts
+build/
+sdkconfig.old
+
+# IDE files
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
